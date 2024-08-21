@@ -10,3 +10,23 @@
     font-size: x-small;
 }
 
+.blank{
+    background-color: #a0c63f;
+}
+
+span{
+    color: #a0c63f;
+}
+
+.contact-container a{
+    text-decoration: none;
+    color: black;
+}
+
+.fa-facebook, .fa-twitter, .fa-wifi, .fa-vimeo, .fa-basketball-ball, .fa-phone, .fa-envelope, .fa-tablet{
+    color: grey;
+}
+
+.fa-chevron-circle-up{
+    color: #a0c63f;;
+}
