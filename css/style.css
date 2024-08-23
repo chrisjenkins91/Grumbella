@@ -7,7 +7,7 @@
 }
 
 .navbar a{
-    font-size: x-small;
+    font-size: 12px;
 }
 
 .blank{
@@ -30,3 +30,19 @@ span{
 .fa-chevron-circle-up{
     color: #a0c63f;;
 }
+
+.portfolio-container button{
+    background-color: #a0c63f;
+    color: white;
+    border: none;
+}
+
+.contact-container button{
+    background-color: #a0c63f;
+    color: white;
+    border: none;
+}
+
+
+
+
